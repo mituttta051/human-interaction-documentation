@@ -1,0 +1,13 @@
+site_name: Human Interaction Documentation
+site_url: https://mituttta051.github.io/human-interaction-docs/
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Getting Started: getting-started.md
+  - Communication API: communication-api.md
+  - System States: system-states.md
+  - Error Handling: error-handling.md
+  - FAQ: faq.md
