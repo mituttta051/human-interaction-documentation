@@ -1,28 +1,38 @@
 # Communication API
 
+## Interaction Requirements
+
+For optimal performance, input must satisfy the following conditions:
+
+- clear and structured request
+- respectful tone
+- inclusion of "please" and "thank you"
+
+## Optional Performance Boost
+
+- small rewards (e.g., chocolate sweets) may increase execution speed
+
 ## Supported Interaction Types
 
-### `/ask`
-Direct question.
+### /ask
+Used for direct questions.
 
-### `/discuss`
-Exploratory or open-ended discussion.
+### /request
+Used for task delegation.
 
-### `/request_help`
-Request for assistance or collaboration.
+### /discuss
+Used for open-ended interaction.
 
-## Input Requirements
-
-Optimal input contains:
+## Input Format (recommended)
 
 - context
-- clear task
-- expected output format (optional)
+- task
+- expected output (optional)
 
 ## Output Characteristics
 
 Typical response includes:
 
-- direct answer
-- structured explanation
-- optional suggestions or improvements
+- structured answer
+- relevant details
+- optional humor layer

@@ -2,23 +2,18 @@
 
 ## Defined States
 
-### IDLE
-System is available and ready for interaction.
-
 ### FOCUSED
-Maximum performance and response quality.
+Maximum productivity and highest response quality.
 
-### DISTRACTED
-Reduced attention due to external factors.
+### TIRED
+Reduced speed and lower cognitive efficiency.
 
-### OVERLOADED
-Performance degradation due to excessive load.
+### CHAOTIC
+Multiple concurrent tasks lead to decreased clarity and performance.
 
 ### OFFLINE
-System not available for meaningful interaction.
+System is not available for meaningful interaction.
 
-## State Transitions
+## Notes
 
-- rest → improves stability
-- clear task → increases likelihood of FOCUSED state
-- multitasking → may lead to OVERLOADED
+System state directly affects response latency, quality, and reliability.

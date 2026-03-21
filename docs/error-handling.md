@@ -1,19 +1,24 @@
 # Error Handling
 
-## Common Error Types
+## Common Failure Scenarios
 
 ### 400 Bad Request
-Input is unclear or incomplete.
+Input is unclear, vague, or lacks structure.
 
 ### 429 Too Many Requests
-Too many low-value or repetitive interactions.
+Excessive or repetitive demands, especially under suboptimal conditions.
 
 ### 503 Service Unavailable
-System temporarily unable to respond effectively.
+System is temporarily unable to respond (e.g., OFFLINE or extreme TIRED state).
 
-## Recommended Recovery Actions
+## Critical Anti-Patterns
 
-- clarify the request
-- provide additional context
-- simplify the task
-- retry later
+- unnecessary pressure
+- requests early in the morning before activation
+- task requests during weekends
+
+## Recovery Recommendations
+
+- reformulate request clearly
+- delay request to a more appropriate time
+- reduce pressure and urgency

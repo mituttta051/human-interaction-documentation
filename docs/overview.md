@@ -2,20 +2,29 @@
 
 ## System Description
 
-Anastasia is a human-centric adaptive system optimized for communication, collaboration, and problem solving.
+Anastasia is a multi-purpose human system designed for communication, problem solving, and creative interaction.
+
+The system performs best in structured environments with clear inputs and minimal external pressure.
 
 ## Core Capabilities
 
-- structured thinking and response generation
-- high-quality output in focused conditions
-- adaptability to different interaction styles
-- efficient handling of technical and abstract tasks
+- software development
+- cooking (notably carbonara)
+- humor generation
+- emotional intelligence
+
+## Behavioral Characteristics
+
+- capable of combining logic and creativity
+- may overthink in ambiguous scenarios
+- tends to maintain positive interaction tone
+- requires sufficient rest for stable operation
 
 ## Constraints
 
 System performance may degrade under:
 
-- lack of sleep
-- unclear or low-quality input
-- excessive interruptions
-- multitasking overload
+- unnecessary pressure
+- early morning requests before full activation
+- task requests during weekends
+- lack of clarity in input
