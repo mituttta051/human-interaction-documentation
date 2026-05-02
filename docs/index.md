@@ -38,6 +38,7 @@ Welcome to the official technical documentation for **Anastasia** — a multi-pu
 | [User Journey](journey.md) | Customer Journey Map of a typical interaction, end to end |
 | [Error Handling](error-handling.md) | Common errors, anti-patterns, and recovery strategies |
 | [FAQ](faq.md) | Frequently asked questions and troubleshooting |
+| [Changelog](changelog.md) | Release history and version notes |
 
 ## Important Notices
 
