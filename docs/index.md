@@ -35,6 +35,7 @@ Welcome to the official technical documentation for **Anastasia** — a multi-pu
 | [Getting Started](getting-started.md) | Prerequisites and first interaction guide |
 | [Communication API](communication-api.md) | Supported methods, input/output formats, and protocols |
 | [System States](system-states.md) | Operational modes, transitions, and performance expectations |
+| [User Journey](journey.md) | Customer Journey Map of a typical interaction, end to end |
 | [Error Handling](error-handling.md) | Common errors, anti-patterns, and recovery strategies |
 | [FAQ](faq.md) | Frequently asked questions and troubleshooting |
 
